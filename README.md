@@ -21,7 +21,7 @@ I am new to GitHub, so please excuse the mess. This is a work in progress!
 - **Programming Languages**: Python, R, SQL
 - **Data Visualization**: Tableau, Seaborn, Matplotlib
 - **Database Management**
-- **Machine Learning**: Scikit-learn, Pandas, NumPy
+- **Machine Learning**
 
 ## [Certifications](https://www.linkedin.com/in/travisrogan)
 - **SQL for Data Science** (UC Davis via Coursera)
