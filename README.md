@@ -3,11 +3,11 @@
 I am new to GitHub, so please excuse the mess. This is a work in progress!
 
 ## About Me
-I'm an aspiring **Data Scientist** currently pursuing my **Master of Data Science** at the University of Pittsburgh. In my current role at North Way Christian Community, I specialize in SQL, Tableau.
+I'm an aspiring **Data Scientist** currently pursuing my **Master of Data Science** at the University of Pittsburgh. In my current role at North Way Christian Community, I regularly use SQL and Tableau.
 
 - 🎓 Earning a **Master of Data Science** from the University of Pittsburgh
 - 💼 Working as a **Database Specialist**: using SQL for ad hoc data requests and building reports in **Tableau** for management
-- 📊 Proficient in **Python**, **SQL**, **Tableau**, and **R**.
+- 📊 Trained in **Python**, **SQL**, **Tableau**, and **R**.
 
 ## Projects
 
@@ -25,9 +25,10 @@ I'm an aspiring **Data Scientist** currently pursuing my **Master of Data Scienc
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 
 ## Certifications
-- **SQL for Data Science** (UC Davis)
+- **SQL for Data Science** (UC Davis via Coursera)
 - **Data Science with SQL and Tableau Certificate** (Cornell University)
 - **Data Analytics in R Professional Certificate** (Cornell University)
+- **Google Data Analytics Professional Certificate** (Google via Coursera)
 
 
 <!--
