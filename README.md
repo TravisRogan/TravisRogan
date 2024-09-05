@@ -11,10 +11,9 @@ I'm an aspiring **Data Scientist** currently pursuing my **Master of Data Scienc
 
 ## Projects
 
-### 1. [Pitt Football Season Ticket Renewal Prediction](https://github.com/TravisRogan/pitt_athletics)
+### 1. [Pitt Football Season Ticket Renewal](https://github.com/TravisRogan/pitt_athletics)
 *Predicting the likelihood of season ticket holders renewing their tickets using Python.*
 
-- Built a predictive model.
 - Cleaned and processed data from real Pitt Athletics Dept to predict season ticket holder renewal
 - Achieved an accuracy of 79.4% with a precision score of 81%.
 - Visualized results with Seaborn and Matplotlib.
