@@ -15,7 +15,7 @@ I'm an aspiring **Data Scientist** currently pursuing my **Master of Data Scienc
 *Predicting the likelihood of season ticket holders renewing their tickets using Python.*
 
 - Cleaned and processed data from real Pitt Athletics Dept to predict season ticket holder renewal
-- Achieved an accuracy of 79.4% with a precision score of 81%.
+- Achieved a recall of 90% and F1 score of 85.2%
 - Visualized results with Seaborn and Matplotlib.
 
 ## Skills
