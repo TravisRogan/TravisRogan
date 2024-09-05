@@ -5,7 +5,7 @@ I am new to GitHub, so please excuse the mess. This is a work in progress!
 ## About Me
 
 - 🎓 Earning a **Master of Data Science** from the University of Pittsburgh
-- 💼 Working as a **Database Specialist**: using [SQL](https://github.com/TravisRogan/SQL) for ad hoc data requests and building reports in **Tableau** for management
+- 💼 Working as a **Database Specialist**: using [SQL](https://github.com/TravisRogan/SQL) for ad hoc data requests and building reports in [Tableau](https://public.tableau.com/app/profile/travis.rogan/vizzes) for management
 - 📊 Trained in **Python**, **SQL**, **Tableau**, and **R**.
 
 ## Projects
