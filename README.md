@@ -14,7 +14,7 @@ I am new to GitHub, so please excuse the mess. This is a work in progress!
 ### [Pitt Football Season Ticket Renewal](https://github.com/TravisRogan/pitt_athletics)
 *Predicting the likelihood of season ticket holders renewing their tickets using Python.*
 
-- Cleaned and processed data from real Pitt Athletics Dept to predict season ticket holder renewal
+- Cleaned and processed data from the Pitt Athletics Dept to predict season ticket holder renewal
 - Achieved a recall of 90% and F1 score of 85.2%
 - Visualized results with Seaborn and Matplotlib.
 
