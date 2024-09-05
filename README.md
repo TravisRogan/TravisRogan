@@ -25,10 +25,10 @@ I am new to GitHub, so please excuse the mess. This is a work in progress!
 - **Machine Learning**
 
 ## [Certifications](https://www.linkedin.com/in/travisrogan)
-- **SQL for Data Science** (UC Davis via Coursera)
+- **[SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/WMC6BJ3AN7KA)** (UC Davis via Coursera)
 - **Data Science with SQL and Tableau Certificate** (Cornell University)
 - **Data Analytics in R Professional Certificate** (Cornell University)
-- **Google Data Analytics Professional Certificate** (Google via Coursera)
+- **[Google Data Analytics Professional Certificate](https://coursera.org/share/4fecb45b99eacdfcad2c6a2f08809efb)** (Google via Coursera)
 
 
 <!--
