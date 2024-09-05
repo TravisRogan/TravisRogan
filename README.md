@@ -23,7 +23,7 @@ I am new to GitHub, so please excuse the mess. This is a work in progress!
 - **Database Management**
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 
-## [Certifications](https://www.linkedin.com/in/travisrogan/details/certifications/)
+## [Certifications](https://www.linkedin.com/in/travisrogan)
 - **SQL for Data Science** (UC Davis via Coursera)
 - **Data Science with SQL and Tableau Certificate** (Cornell University)
 - **Data Analytics in R Professional Certificate** (Cornell University)
