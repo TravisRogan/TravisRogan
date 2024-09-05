@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I am new to GitHub, so please excuse the mess. This is a work in progress!
 
