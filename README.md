@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am new to GitHub, so please excuse the mess. This is a work in progress!
+
 ## About Me
 I'm an aspiring **Data Scientist** currently pursuing my **Master of Data Science** at the University of Pittsburgh. In my current role at North Way Christian Community, I specialize in SQL, Tableau.
 
