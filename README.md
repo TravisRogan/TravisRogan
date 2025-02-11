@@ -19,7 +19,7 @@ I am new to GitHub, so please excuse the mess. This is a work in progress!
 - Visualized results with Seaborn and Matplotlib.
 
 ## Skills
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: SQL, Python, R
 - **Data Visualization**: Tableau, Seaborn, Matplotlib
 - **Database Management**
 - **Machine Learning**
